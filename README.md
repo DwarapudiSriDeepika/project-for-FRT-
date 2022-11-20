@@ -13,10 +13,10 @@ This is a web based application developed for fashion related telugu based websi
 
 ## Features and Functionalities 🥳
 
-👉Interactive and responsive UI.
-👉Has many graphical and visual innovative effects.
-👉Have an aesthetically pleasing visual design and architecture.
-👉 Has collection of many web pages including Home, About Us, Contactus,bot service,gallert and fashiion related information etc.
+👉-Interactive and responsive UI.
+👉-Has many graphical and visual innovative effects.
+👉-Have an aesthetically pleasing visual design and architecture.
+👉-Has collection of many web pages including Home, About Us, Contactus,bot service,gallert and fashiion related information etc.
 
 ##blogs 🥳
 <img width="1033" alt="Screenshot 2022-11-20 084038" src="https://user-images.githubusercontent.com/117741783/202881479-6e58aada-1002-49ec-9a0f-46b71596ed1f.png">
