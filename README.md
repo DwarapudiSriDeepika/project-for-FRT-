@@ -18,10 +18,10 @@ This is a web based application developed for fashion related telugu based websi
 👉-Have an aesthetically pleasing visual design and architecture.
 👉-Has collection of many web pages including Home, About Us, Contactus,bot service,gallert and fashiion related information etc.
 
-##blogs 🥳
+## Look home page 🥳
 <img width="1033" alt="Screenshot 2022-11-20 084038" src="https://user-images.githubusercontent.com/117741783/202881479-6e58aada-1002-49ec-9a0f-46b71596ed1f.png">
 
-##home blog 2🤩
+## LooK site 2🤩
 <img width="1021" alt="home2" src="https://user-images.githubusercontent.com/117741783/202881507-8decd88c-c3f6-42aa-93ce-300b2ed9ed90.png">
 #about us 🤩
 <img width="1042" alt="about us" src="https://user-images.githubusercontent.com/117741783/202881543-d48f198a-465e-43b8-9d77-9780e192d6d0.png">
