@@ -6,7 +6,7 @@ This is a web based application developed for fashion related telugu based websi
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent (FRT) Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* -
+*Project Link* -https://brave-cliff-012675000.2.azurestaticapps.net/index.html
 *Project Demovideo link* -
 
 
