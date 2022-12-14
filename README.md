@@ -34,7 +34,10 @@ This is a web based application developed for fashion related telugu based websi
 
 ##contact us🤩
 <img width="1042" alt="contact us" src="https://user-images.githubusercontent.com/117741783/202881591-9c30c264-effd-4612-8840-42bbc0da20e8.png">
+##  Azure services.
 
+
+<img width="1078" alt="d azure" src="https://user-images.githubusercontent.com/117741783/207669734-a6c1f27b-6bda-49ec-8968-14e1ac0c349d.png">
 
 
 
