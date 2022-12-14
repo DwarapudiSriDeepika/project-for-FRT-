@@ -4,7 +4,8 @@
 This is a web based application developed for fashion related telugu based website in india
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent (FRT) Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
-
+### azure services 1)static web apps 2) azure health bot.
+.
 
 👉*Project Link* -https://brave-cliff-012675000.2.azurestaticapps.net/index.html
 👉*Project Demovideo link* - https://github.com/DwarapudiSriDeepika/project-for-FRT-/blob/main/Look%20Fashion%20Category%20Bootstrap%20Responsive%20Web%20Template%20_%20Home%20__%20W3layouts%20-%20Google%20Chrome%202022-12-14%2023-26-09.mp4
