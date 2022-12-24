@@ -51,7 +51,7 @@ Azure Health Bot URL : https://brave-cliff-012675000.2.azurestaticapps.net/bot.h
 <img width="1068" alt="dd bot1" src="https://user-images.githubusercontent.com/117741783/209420894-931a105d-bba1-4099-ae65-739fd35fad04.png">
 <img width="1080" alt="dd bot2" src="https://user-images.githubusercontent.com/117741783/209420902-1d7d7e41-4a12-4b91-85b6-df3d8128aaef.png">
 ##  Azure services.
-<img width="1078" alt="d azure" src="https://user-images.githubusercontent.com/117741783/207669734-a6c1f27b-6bda-49ec-8968-14e1ac0c349d.png">
+<img width="1080" alt="d azure" src="https://user-images.githubusercontent.com/117741783/209420930-216136e8-a6cb-4d15-bc4a-4b288a4e247f.png">
 
 
 
